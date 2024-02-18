@@ -1,0 +1,9 @@
+name: car_price
+channels:
+  - defaults
+dependencies:
+  - numpy=1.23.5
+  - pandas==1.5.2
+  - flask=2.2.2
+  - scikit-learn
+prefix: C:\Users\ramma\.conda\envs\car_prcie
